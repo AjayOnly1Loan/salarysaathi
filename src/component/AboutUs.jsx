@@ -189,7 +189,7 @@ const AboutUs = () => {
             textAlign: 'center',
           }}
         >
-          Welcome to Salarysathi.com, your trusted partner in personal finance solutions. As a premier digital lending platform under SHIVJI FINANCE & INVESTMENTS (P).LTD
+          Welcome to Salarysathi.com, your trusted partner in personal finance solutions. As a premier digital lending platform under SHIVJI FINANCE AND INVESTMENTS PVT LTD
 Limited, we specialize in providing fast, convenient, and short-term unsecured personal loans to salaried individuals across India. Our mission is to empower our customers with access to credit, simplifying the loan process through innovative technology and tailored solutions that meet your unique financial needs.
         </Typography>
         
@@ -251,7 +251,7 @@ Limited, we specialize in providing fast, convenient, and short-term unsecured p
             marginBottom: { xs: '40px', md: '20px' }, // Responsive bottom margin
           }}
         >
-          Welcome to Salarysathi.com, your trusted partner in personal finance solutions. As a premier digital lending platform under                     SHIVJI FINANCE & INVESTMENTS (P).LTD
+          Welcome to Salarysathi.com, your trusted partner in personal finance solutions. As a premier digital lending platform under SHIVJI FINANCE AND INVESTMENTS PVT LTD
 Limited, we specialize in providing fast, convenient, and short-term unsecured personal loans to salaried individuals across India. Our mission is to empower our customers with access to credit, simplifying the loan process through innovative technology and tailored solutions that meet your unique financial needs.
         </Typography>
 

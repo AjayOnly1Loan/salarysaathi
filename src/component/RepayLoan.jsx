@@ -176,7 +176,7 @@ const RepayLoan = () => {
                      Name
                     </Box>
                     <Typography sx={{ marginLeft: { xs: 2, md: 3 } }}>
-                    SHIVJI FINANCE & INVESTMENTS (P).LTD
+                    SHIVJI FINANCE AND INVESTMENTS PVT LTD
                     </Typography>
                   </Typography>
 
