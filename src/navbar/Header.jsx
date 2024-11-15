@@ -45,9 +45,9 @@ const Header = () => {
     <>
       {/* Navbar */}
       <AppBar position="static" sx={{ backgroundColor: '#f9f9f9' }}>
-        <Toolbar sx={{ display: 'flex', justifyContent: 'space-between', minHeight: '64px', marginTop: '30px' }}>
+        <Toolbar sx={{ display: 'flex', justifyContent: 'space-between', minHeight: '64px', marginTop: '10px' }}>
           <Link to="/" onClick={() => scrollToTop('/')} style={{ display: 'flex', alignItems: 'center' }}>
-            <img src={logo} alt="Logo" style={{ width: '51%', height: 'auto' }} />
+            <img src={logo} alt="Logo" style={{ width: '41%', height: 'auto' }} />
           </Link>
 
           {/* Sticky Dropdown menu button */}

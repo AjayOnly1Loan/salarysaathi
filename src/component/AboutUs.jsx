@@ -161,14 +161,11 @@ const AboutUs = () => {
     </Box>
       <Box 
         sx={{
-          backgroundColor: 'rgba(255, 255, 255, 0.4)', // More transparent background
+          backgroundColor: 'rgba(255, 255, 255, 0)', // More transparent background
           padding: '40px',
-          borderRadius: '40px', // Increased border radius
-          boxShadow: '0 4px 10px rgba(128, 128, 128, 0.2)', // Gray shadow
           marginBottom: 4,
           maxWidth: '90%', // Default maxWidth for larger screens
           margin: '0 auto', // Center the box
-          border: '2px solid white', // White border
           marginTop: '60px',
           
           // For smaller screens, the box will take full width (100%)
@@ -215,63 +212,7 @@ Limited, we specialize in providing fast, convenient, and short-term unsecured p
           At Salarysathi.com, we understand that life can be unpredictable whether it’s medical emergencies, wedding expenses, home improvements, we’re here to ensure that financial hurdles don’t hold you back. With our seamless, fully digital platform, you can apply for a loan in minutes, track your application status in real-time, and receive funds directly into your bank account.
         </Typography>
       </Box>
-
-
-
-   
-
-    
-            <Typography 
-          variant="h4" // Heading style
-          sx={{
-            marginTop: '50px', // Margin on top
-            fontFamily: 'Inter',
-            fontSize: { xs: '2.4rem', md: '3rem' },
-            fontWeight: 700, // Font weight
-            lineHeight: '73px', // Line height
-            letterSpacing: '-0.408px', // Letter spacing
-            textAlign: 'center',
-            marginBottom: { xs: '20px', md: '2px' }, // Responsive margin-bottom
-          }}
-        >
-          About Us
-        </Typography>
-
-        <Typography 
-          variant="body1" 
-          sx={{
-            paddingLeft: { xs: '20px', sm: '30px', md: '50px' }, // Responsive padding
-            paddingRight: { xs: '20px', sm: '30px', md: '50px' }, // Responsive padding
-            fontFamily: 'Inter',
-            fontSize: { xs: '16px', sm: '18px', md: '22px' }, // Responsive font size
-            fontWeight: 500, 
-            lineHeight: '40px', 
-            letterSpacing: '-0.408px', // Letter spacing
-            textAlign: 'center',
-            marginBottom: { xs: '40px', md: '20px' }, // Responsive bottom margin
-          }}
-        >
-          Welcome to Salarysathi.com, your trusted partner in personal finance solutions. As a premier digital lending platform under SHIVJI FINANCE AND INVESTMENTS PVT LTD
-Limited, we specialize in providing fast, convenient, and short-term unsecured personal loans to salaried individuals across India. Our mission is to empower our customers with access to credit, simplifying the loan process through innovative technology and tailored solutions that meet your unique financial needs.
-        </Typography>
-
-        <Typography 
-          variant="body1" 
-          sx={{
-            paddingLeft: { xs: '20px', sm: '30px', md: '60px' }, // Responsive padding
-            paddingRight: { xs: '20px', sm: '30px', md: '50px' }, // Responsive padding
-            fontFamily: 'Inter',
-            fontSize: { xs: '16px', sm: '18px', md: '22px' }, // Responsive font size
-            fontWeight: 500, 
-            lineHeight: '40px', 
-            letterSpacing: '-0.408px', // Letter spacing
-            textAlign: 'center',
-            marginBottom: { xs: '40px', md: '60px' }, // Responsive bottom margin
-          }}
-        >
-        At Salarysathi.com, we understand that life can be unpredictable whether it’s medical emergencies, wedding expenses, home improvements, we’re here to ensure that financial hurdles don’t hold you back. With our seamless, fully digital platform, you can apply for a loan in minutes, track your application status in real-time, and receive funds directly into your bank account.
-      </Typography>
-            
+ 
       {/* mission & vission */}
 
                   <Box
