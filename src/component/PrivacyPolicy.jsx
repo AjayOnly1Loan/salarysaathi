@@ -8,8 +8,7 @@ const PrivacyPolicy = () => {
         {
             title: "Privacy Policy",
             content: [
-                "At Salarysathi.com, a lending platform under                     SHIVJI FINANCE & INVESTMENTS (P).LTD
-Limited, we prioritize your privacy. This policy explains how we collect, use, and protect your data. By using Salarysathi.com, you agree to the collection and use of your information as outlined in this Privacy Policy."
+                "At Salarysathi.com, a lending platform under Naman Finlease Private Limited, we prioritize your privacy. This policy explains how we collect, use, and protect your data. By using Salarysathi.com, you agree to the collection and use of your information as outlined in this Privacy Policy."
             ]
         },
         {
@@ -37,8 +36,7 @@ Limited, we prioritize your privacy. This policy explains how we collect, use, a
                 "Your information may be shared with:",
                 "• Authorized Third Parties: We work with Credit Bureaus, Payment Gateways, and Verification Agencies to process and verify your information.",
                 "• Legal Authorities: We may disclose your information as required by law, such as for regulatory reporting or fraud investigations.",
-                "• Parent Company: We may share data with our parent company,                     SHIVJI FINANCE & INVESTMENTS (P).LTD
-Limited, for loan processing."
+                "• Parent Company: We may share data with our parent company, Naman Finlease Private Limited, for loan processing."
             ]
         },
         {

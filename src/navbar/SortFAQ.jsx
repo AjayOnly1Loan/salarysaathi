@@ -195,8 +195,7 @@ const faqItems = [
     },
     {
         question: 'How is Salarysathi different from a traditional bank?',
-        answer: 'Unlike traditional banks that may reject loan applications based on strict criteria, Salarysathi is part of                     SHIVJI FINANCE & INVESTMENTS (P).LTD
-Limited, an RBI-registered NBFC. We specialize in providing loans to people who may not meet traditional lending standards. We offer quick approvals, minimal paperwork, and fast fund transfers, making borrowing easy and stress-free.'
+        answer: 'Unlike traditional banks that may reject loan applications based on strict criteria, Salarysathi is part of Naman Finlease Private Limited, an RBI-registered NBFC. We specialize in providing loans to people who may not meet traditional lending standards. We offer quick approvals, minimal paperwork, and fast fund transfers, making borrowing easy and stress-free.'
     },
     {
         question: 'How do I apply for a loan with Salarysathi?',
